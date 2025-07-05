@@ -1,3 +1,9 @@
 User profile details to be filled to signup
 User profile details to be filled to signup
 User profile details to be filled to signup
+
+########################################
+
+CHANGES TO CHECK WHERE GIT WILL MERGE IT OR NOT?
+
+########################################
